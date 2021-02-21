@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Target IAS Coaching Goverment Job Preperation App</string>
+    <string name="home">home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Userdata">USERDATA</string>
+    <string name="SUBJECTNAME">SUBJECTNAME</string>
+    <string name="SUBJECTIMAGE">SUBJECTIMAGE</string>
+    <string name="SUBJECT_SUB_CATEGORIES">SUBJECT_SUB_CATEGORIES</string>
+
+    <!--     Subject name array list-->
+    <string-array name="subject_name_list">
+        <item>Math</item>
+        <item>Reasoning</item>
+        <item>English</item>
+        <item>Bio</item>
+        <item>Science</item>
+        <item>हिंदी</item>
+    </string-array>
+
+    <string-array name="MathCategories">
+        <item>Numbers </item>
+        <item>Category 2 </item>
+        <item>Category 3 </item>
+        <item>Category 4 </item>
+        <item>Category 5 </item>
+        <item>Category 6 </item>
+        <item>Category 7 </item>
+        <item>Category 8 </item>
+        <item>Category 9</item>
+        <item>Category 10</item>
+    </string-array>
+
+    <string-array name="ReasoningCategories">
+        <item>Category 1 </item>
+        <item>Category 2 </item>
+        <item>Category 3 </item>
+        <item>Category 4 </item>
+        <item>Category 5 </item>
+        <item>Category 6 </item>
+        <item>Category 7 </item>
+        <item>Category 8 </item>
+        <item>Category 9</item>
+        <item>Category 10</item>
+    </string-array>
+
+    <string-array name="EnglishCategories">
+        <item>Category 1 </item>
+        <item>Category 2 </item>
+        <item>Category 3 </item>
+        <item>Category 4 </item>
+        <item>Category 5 </item>
+        <item>Category 6 </item>
+        <item>Category 7 </item>
+        <item>Category 8 </item>
+        <item>Category 9</item>
+        <item>Category 10</item>
+    </string-array>
+
+    <string-array name="BioCategories">
+        <item>Category 1 </item>
+        <item>Category 2 </item>
+        <item>Category 3 </item>
+        <item>Category 4 </item>
+        <item>Category 5 </item>
+        <item>Category 6 </item>
+        <item>Category 7 </item>
+        <item>Category 8 </item>
+        <item>Category 9</item>
+        <item>Category 10</item>
+    </string-array>
+
+    <string-array name="ScienceCategories">
+        <item>Category 1 </item>
+        <item>Category 2 </item>
+        <item>Category 3 </item>
+        <item>Category 4 </item>
+        <item>Category 5 </item>
+        <item>Category 6 </item>
+        <item>Category 7 </item>
+        <item>Category 8 </item>
+        <item>Category 9</item>
+        <item>Category 10</item>
+    </string-array>
+
+    <string-array name="HindiCategories">
+        <item>Category 1 </item>
+        <item>Category 2 </item>
+        <item>Category 3 </item>
+        <item>Category 4 </item>
+        <item>Category 5 </item>
+        <item>Category 6 </item>
+        <item>Category 7 </item>
+        <item>Category 8 </item>
+        <item>Category 9</item>
+        <item>Category 10</item>
+    </string-array>
+
+
+</resources>
